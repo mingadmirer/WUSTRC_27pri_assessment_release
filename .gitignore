@@ -1,0 +1,6 @@
+/.vscode
+**/*.exe
+**/build/
+**/build-*/
+**/CMakeUserPresets.json
+compile_commands.json

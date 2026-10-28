@@ -1,0 +1,10 @@
+inventory:
+  - type: weapon
+    name: 热能武士刀
+    damage: 150
+  - type: cyberware
+    name: 螳螂刀
+    armor: 25
+  - type: cyberware
+    name: 克伦齐科夫
+    armor: 10
